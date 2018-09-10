@@ -1,10 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans+Condensed:400,700&subset=cyrillic');
+
 .ruswoman-div-wrapper {
+	font-family: 'Fira Sans Condensed', sans-serif;
 	text-align: center;
 	padding-top: 10%;
 }
 .ruswoman-div-1 {
 	font-weight: bold;
 	font-size: 20px;
+	padding-bottom: 30px;
 }
 .ruswoman-div-2 {
 	font-weight: normal;
